@@ -1,0 +1,24 @@
+#pragma once
+
+void PlayerShootSound();
+void PlayerRapidShootSound();
+void ShotHitSound();
+void DebrisSound();
+void FlagPickupSound();
+void FlagDropSound();
+void PlayerWinSound();
+void ButtonSelectSound();
+void ButtonNavigationSound();
+void ExplosionSound();
+void FeulFullSound();
+void FeulemptySound();
+void SrartRefuelSound();
+void PaintSound();
+void StartScoreCounterSound();
+void EndScoreCounterSound();
+void StartPlayerMoveSound();
+void EndPlayerMoveSound();
+void StartGameMusic();
+void EndGameMusic();
+void StartMenuMusic();
+void EndMenuMusic();
